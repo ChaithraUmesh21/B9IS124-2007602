@@ -24,7 +24,7 @@ body {
     height: auto;
     font-size: 18px;
     padding: 10px;
-    border:2px solid blue;
+    border:2px solid rgb(9, 9, 9);
     border-radius: 10px;
     margin-top: 2px;
 }
@@ -34,11 +34,11 @@ body {
     cursor: pointer;
     padding: 10px;
     border-radius: 10px;
-    background-color: burlywood;
+    background-color: rgb(135, 222, 141);
     border: 0;
 }
 .navigation {
-    background-color: #023047;
+    background-color: #f50505;
 }
 .nav-list {
     list-style: none;
@@ -107,7 +107,7 @@ main {
   .card button {
     margin: 3%;
     padding: 10px;
-    background-color: #023047;
+    background-color: #f50505;
     color: white;
     cursor: pointer;
     border: 0;
@@ -264,7 +264,7 @@ main {
     .header1 {
         display: flex;
         justify-content: space-between;
-        background-color: #023047;
+        background-color: #f50505;
         
     }
     .logo img {
